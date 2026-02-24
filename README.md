@@ -27,7 +27,6 @@ Validators (ground truth comparison) <──────────────
 ```
 ├── proposal/
 │   └── proposal.md             # Full subnet design proposal (the Ideathon submission)
-├── idea/                       # Research notes, market analysis, design thinking
 └── trustensor/                 # Placeholder implementation (development begins post-Ideathon)
     ├── neurons/
     │   ├── miner.py
